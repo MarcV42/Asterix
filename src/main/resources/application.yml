@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://marcveizhans:+,9*sRawXSHB-*7@mydb.4qvgmwx.mongodb.net/
+      database: shopDB
